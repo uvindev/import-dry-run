@@ -1,0 +1,12 @@
+/* TEAM */
+Developer: Uvin Vindula (IAMUVIN)
+Website: https://iamuvin.com
+Company: ASI Research Labs
+Company site: https://asiresearch.io
+Location: Sri Lanka
+
+/* SITE */
+Product: ImportDryRun
+Built: 2026
+Language: English
+Standards: TypeScript, Next.js, RFC 4180-style CSV parsing
