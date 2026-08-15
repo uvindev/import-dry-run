@@ -31,7 +31,7 @@ CSV and contract content stay in the browser tab. Plausible analytics, when conf
 
 ## Commercial status
 
-The current product checks one file for free. Shared contract versions, intake links, history, API access, and CI gates form the Team hypothesis at [TARGET] $29 per team per month. Price, demand, and revenue are unverified.
+The current product checks one file for free. Price, demand, and revenue are unverified.
 
 ## Attribution
 
