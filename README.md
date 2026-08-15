@@ -37,4 +37,4 @@ The current product checks one file for free. Shared contract versions, intake l
 
 Built by [Uvin Vindula](https://iamuvin.com) (IAMUVIN), co-founder of [ASI Research Labs](https://asiresearch.io).
 
-Proprietary — all rights reserved.
+MIT — see LICENSE.
