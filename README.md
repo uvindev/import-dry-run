@@ -2,6 +2,8 @@
 
 ImportDryRun checks a CSV against a typed JSON contract before the file reaches a production importer. It runs in the browser and reports row, column, rule, severity, and repair guidance without including cell values in generated artifacts.
 
+![ImportDryRun on load: the receiving desk that checks a CSV against a column contract](docs/screenshot.png)
+
 ## Local setup
 
 ```bash
